@@ -14,7 +14,7 @@ const styles = {
     alignItems: 'center',
     height: 60,
     paddingTop: 15,
-  }
+  },
 }
 
 export default Header

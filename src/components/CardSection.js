@@ -14,7 +14,7 @@ const styles = {
     borderColor: '#ddd',
     justifyContent: 'flex-start',
     flexDirection: 'row',
-  }
+  },
 }
 
 export default CardSection
